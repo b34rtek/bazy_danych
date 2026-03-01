@@ -1,1 +1,1 @@
-"# bazy_danych" 
+projekt i implementacja bazy danych dla biura zajmującego sięa nieruchomości
